@@ -1,6 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Priyanshu%20Kumar&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Python%20Developer&descSize=20&descAlignY=60&animation=fadeIn" alt="Priyanshu Kumar banner" />
-</p>
+<img src="banner.svg" alt="Priyanshu Kumar, AI/ML Engineer and Python Developer" width="100%" /></p>
 
 <p align="center">
 <a href="https://github.com/Priyanshu-Kumar1">
